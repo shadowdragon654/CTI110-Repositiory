@@ -1,1 +1,4 @@
-# CTI110-Repositiory
+# CTI 110 Repository
+Created for P1LAB2
+Lariche
+13SEP20
